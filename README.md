@@ -15,5 +15,6 @@ In addition to the cardstock for the graphical bits, you'll also need some thin 
 Again, I'd really like to make a real reproduction of this, so if you have one let me know!
 
 ### Known Issues
+* Parts of several scales on the baseplate are cut off in the original scan (low ohms and most of watts)
 * Some slight distortion on selector wheel.  Values are still pretty close though.
 * Full size base might have something wrong with alignment marks - I have a hard time getting my Cameo to recognize it.  Scissors work too :p
