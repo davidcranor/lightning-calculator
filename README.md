@@ -1,6 +1,6 @@
 # lightning-calculator
 
-## **NOTE: I'm really interested in making a Proper Reproduction composited from many scans, so if you have access to an original print, [PLEASE contact me!](mailto:hello@davidcranor.com)**
+### **NOTE: I'm really interested in making a Proper Reproduction composited from many scans, so if you have access to an original print, PLEASE [contact me!](mailto:hello@davidcranor.com)**
 
 Back in the 30s, the Amateur Radio Relay League released a series of circular slide rules that allow for quick solving of commonly needed electrical engineering calculations called Lightning Calculators.
 
@@ -13,9 +13,6 @@ This project includes the master Photoshop file as well as .pdf files and Silhou
 In addition to the cardstock for the graphical bits, you'll also need some thin transparent PETG to make the pointer and a 0.25" rivet for the center bearing.
 
 Again, I'd really like to make a real reproduction of this, so if you have one let me know!
-
-David Cranor
-May 2016
 
 ### Known Issues
 * Full size base might have something wrong with alignment marks - I have a
