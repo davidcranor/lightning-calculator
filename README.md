@@ -6,7 +6,7 @@ Back in the 30s, the Amateur Radio Relay League released a series of circular sl
 
 Right now, I only have some partial scans of Type B - the Ohm's Law version. It's pretty awesome - you can quickly find any two of resistance, voltage, current, and power if the other two are known.
 
-This is just a hacky prototype that I made to work out the fabrication process (it's not a complete scan so no point in striving to make it perfect right now), so the cutouts are a little sloppy and hand-traced.  Some of the power and microvolts scales are not reproduced in the original scan, and there is an image of the original wiper in the background as well.   I literally just downloaded the images from [Theodore Monk's blog](http://munk.org/typecast/2014/05/02/paper-calculators-the-lightning-calculator-1932-and-the-color-helm-1940/) and cut them apart in Photoshop.  But it works!
+This is just a hacky prototype that I made to work out the fabrication process (it's not a complete scan so no point in striving to make it perfect right now), so the cutouts are a little sloppy and hand-traced.  Some of the power and microvolts scales are not reproduced in the original scan, and there is an image of the original wiper in the background as well.   I literally just downloaded the images from [Theodore Munk's blog](http://munk.org/typecast/2014/05/02/paper-calculators-the-lightning-calculator-1932-and-the-color-helm-1940/) and cut them apart in Photoshop.  But it works!
 
 This project includes the master Photoshop file as well as .pdf files and Silhouette Studio project files suitable for cutting on a Silhouette Cameo machine.
 
