@@ -16,9 +16,10 @@ In addition to the cardstock for the graphical bits, you'll also need some thin 
 Again, I'd really like to make a real reproduction of this, so if you have one let me know!
 
 David Cranor
+
 May 2016
 hello@davidcranor.com
 
-# Known Issues
+### Known Issues
 * Full size base might have something wrong with alignment marks - I have a
 hard time getting my Cameo to recognize it
